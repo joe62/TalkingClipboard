@@ -2,6 +2,8 @@
 
 文本朗读工具，文本转MP3
 
+[截图](http://https://github.com/joe62/TalkingClipboard/blob/master/%E8%AF%9D%E5%8C%A3%E5%AD%90.png)
+
 ## 功能
 
 1. 正在朗读时禁止剪切功能, 朗读完成时自动释放.
